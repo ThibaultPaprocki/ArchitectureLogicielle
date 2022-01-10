@@ -1,0 +1,6 @@
+projectKey=apaprocki:cc1
+serverUrl=http://localhost:9000
+serverVersion=7.5.0.20543
+dashboardUrl=http://localhost:9000/dashboard?id=apaprocki%3Acc1
+ceTaskId=AX5FdlttAswDfKCo_JqL
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX5FdlttAswDfKCo_JqL
